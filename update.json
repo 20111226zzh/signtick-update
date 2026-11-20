@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "1.0",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0-r29.apk",
-  "notes": "更新通道迁移至 GitHub + jsDelivr，修正左下角头像字母居中。",
-  "sha256": "656974ace61c4d6f81d65b40409619b62bcd86ae1135af9fc69d91e851c47a5d"
+  "versionCode": 31,
+  "versionName": "1.0.1",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.1-r31.apk",
+  "notes": "版本号改为逐次递增；本次更新后回到未登录状态。",
+  "sha256": "f2911af9b1e66397133eaad6f56c1126f0ef2cd19cf115b0228c814b7c6482d8"
 }
