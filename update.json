@@ -1,7 +1,7 @@
 {
   "versionCode": 33,
   "versionName": "1.0.3",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.3-r33.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.3-r33c.apk",
   "notes": "移除登录页面，打开应用直接进入首页。",
   "sha256": "8dcbf369f58c6073487de0b9d2c93aadfe6204432e2423fdf80c7fc7f6bfbc70"
 }
