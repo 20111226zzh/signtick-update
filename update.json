@@ -1,7 +1,16 @@
 {
-  "versionCode": 33,
-  "versionName": "1.0.3",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.3-r33c.apk",
-  "notes": "移除登录页面，打开应用直接进入首页。",
-  "sha256": "8dcbf369f58c6073487de0b9d2c93aadfe6204432e2423fdf80c7fc7f6bfbc70"
+  "versionCode": 34,
+  "versionName": "1.0.4",
+  "apkUrl": "https://fastly.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.4-r34.apk",
+  "apkUrls": [
+    "https://fastly.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.4-r34.apk",
+    "https://gcore.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.4-r34.apk",
+    "https://testingcf.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.4-r34.apk",
+    "https://quantil.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.4-r34.apk",
+    "https://cdn.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.4-r34.apk",
+    "https://raw.githubusercontent.com/20111226zzh/signtick-update/main/Signtick-1.0.4-r34.apk",
+    "https://github.com/20111226zzh/signtick-update/releases/download/v1.0.4-r34/Signtick-1.0.4.apk"
+  ],
+  "notes": "更新下载器：5 秒连不上或 7 秒不出数据立刻切换下一条线路，并在所有线路中选择最新版本，解决卡在 0% 的问题。",
+  "sha256": "58479478919229f529e74d9416fdc0aeeceebf9b7a472c799bd8c6f9608ac1fa"
 }
