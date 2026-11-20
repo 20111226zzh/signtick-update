@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "1.0.1",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.1-r31.apk",
-  "notes": "版本号改为逐次递增；本次更新后回到未登录状态。",
-  "sha256": "f2911af9b1e66397133eaad6f56c1126f0ef2cd19cf115b0228c814b7c6482d8"
+  "versionCode": 32,
+  "versionName": "1.0.2",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.2-r32.apk",
+  "notes": "更新通道支持多线路自动切换，修复部分网络下检查更新连接重置的问题。",
+  "sha256": "7eebacd2a9dcfd4f5c2d11baba16f177e59310e140cf1ef53d1336c9ef08209d"
 }
