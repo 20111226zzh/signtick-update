@@ -1,16 +1,16 @@
 {
-  "versionCode": 35,
-  "versionName": "1.0.5",
-  "apkUrl": "https://fastly.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.5-r35.apk",
+  "versionCode": 36,
+  "versionName": "1.0.0",
+  "apkUrl": "https://fastly.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.0-r36.apk",
   "apkUrls": [
-    "https://fastly.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.5-r35.apk",
-    "https://gcore.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.5-r35.apk",
-    "https://testingcf.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.5-r35.apk",
-    "https://quantil.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.5-r35.apk",
-    "https://cdn.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.5-r35.apk",
-    "https://raw.githubusercontent.com/20111226zzh/signtick-update/main/Signtick-1.0.5-r35.apk",
-    "https://github.com/20111226zzh/signtick-update/releases/download/v1.0.5-r35/Signtick-1.0.5.apk"
+    "https://fastly.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.0-r36.apk",
+    "https://gcore.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.0-r36.apk",
+    "https://testingcf.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.0-r36.apk",
+    "https://quantil.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.0-r36.apk",
+    "https://cdn.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.0-r36.apk",
+    "https://raw.githubusercontent.com/20111226zzh/signtick-update/main/Signtick-1.0.0-r36.apk",
+    "https://github.com/20111226zzh/signtick-update/releases/download/v1.0.0-r36/Signtick-1.0.0.apk"
   ],
-  "notes": "整体配色统一为纯白色系：纯白背景与卡片、深灰文字、浅灰点缀，去掉所有暖橙与金色。",
-  "sha256": "16270b91fd5a80559086d18c68e9a6755e0cefde1cc207b3248e51d3175edad3"
+  "notes": "修复更新下载卡在 0% 的问题：按速度与单条限时自动换线，并实时显示下载速度与当前线路。",
+  "sha256": "1f07c7229b7630fdf57c52ab14882b3344cf008c118464eeb9ba785e8fc8de56"
 }
