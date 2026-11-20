@@ -1,16 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "1.0.0",
-  "apkUrl": "https://fastly.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.0-r36.apk",
-  "apkUrls": [
-    "https://fastly.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.0-r36.apk",
-    "https://gcore.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.0-r36.apk",
-    "https://testingcf.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.0-r36.apk",
-    "https://quantil.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.0-r36.apk",
-    "https://cdn.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.0-r36.apk",
-    "https://raw.githubusercontent.com/20111226zzh/signtick-update/main/Signtick-1.0.0-r36.apk",
-    "https://github.com/20111226zzh/signtick-update/releases/download/v1.0.0-r36/Signtick-1.0.0.apk"
-  ],
-  "notes": "修复更新下载卡在 0% 的问题：按速度与单条限时自动换线，并实时显示下载速度与当前线路。",
-  "sha256": "1f07c7229b7630fdf57c52ab14882b3344cf008c118464eeb9ba785e8fc8de56"
+  "versionCode": 37,
+  "versionName": "1.0.1",
+  "apkUrl": "https://fastly.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.1-r37.apk",
+  "notes": "更新源切换为国内 CDN（火山引擎），下载不再走境外线路；保留 GitHub 作为备用线路。",
+  "sha256": "9b0cc5555be725b86377417649741342049fd1e10dbc75ddfb98c86cb3c96c5f"
 }
