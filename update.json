@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "1.0.3",
-  "apkUrl": "https://37kx6a3224i2htl1qtr.traesite.cn/Tick-1.0.3-r39.apk",
-  "notes": "应用更名为 Tick，更新应用图标与功能图标，首页新增公告。",
-  "sha256": "492d5da332b49ef7a8e3e63428a96e8ee9017b2e963c7276a897f5dc84e523cb"
+  "versionCode": 40,
+  "versionName": "1.0.4",
+  "apkUrl": "https://37kx6a3224i2htl1qtr.traesite.cn/Tick-1.0.4-r40.apk",
+  "notes": "悬浮球换为应用图标；面板居中缩小，面板外可正常触摸；导航改为顶部分类胶囊。",
+  "sha256": "395d21c1f30395c18c8e30caa194494836387fed3eff9f3748da0ab842a9e5aa"
 }
