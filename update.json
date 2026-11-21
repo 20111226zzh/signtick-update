@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "1.0.7",
-  "apkUrl": "https://37kx6a3224i2htl1qtr.traesite.cn/Tick-1.0.7-r43.apk",
-  "notes": "悬浮面板改为最简列表样式：半透明深色底、左侧贴边、选中行蓝色高亮、点击分类直接展开内容；移除侧栏、搜索框和主题切换；修复内容区未挂载导致空白的问题。",
-  "sha256": "eee43e805e41bce7ff06533d6dfe19ce1ec635d0b73105a6a76c1358a86d742e"
+  "versionCode": 44,
+  "versionName": "1.0.8",
+  "apkUrl": "https://37kx6a3224i2htl1qtr.traesite.cn/Tick-1.0.8-r44.apk",
+  "notes": "六点调整：已展开的分类再点一次可收起；面板与选中行改为直角；去掉全部动画（开关、展开、弹出、关闭）；统一暗黑主题；按住顶部栏可拖拽移动窗口；窗口外触摸直接穿透到下层应用。",
+  "sha256": "f223794d6a3ece7a666dffcea0871ebeb43c383994049f337141fb4c0b980c80"
 }
