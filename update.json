@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "1.0.1",
-  "apkUrl": "https://fastly.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.1-r37.apk",
-  "notes": "更新源切换为国内 CDN（火山引擎），下载不再走境外线路；保留 GitHub 作为备用线路。",
-  "sha256": "9b0cc5555be725b86377417649741342049fd1e10dbc75ddfb98c86cb3c96c5f"
+  "versionCode": 38,
+  "versionName": "1.0.2",
+  "apkUrl": "https://fastly.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.2-r38.apk",
+  "notes": "移除公告正文内容。",
+  "sha256": "d76cf747f394661c3a34de3f80ee9e0b09c58495467ba26bd06d27f80d2f3723"
 }
