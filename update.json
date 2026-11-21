@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "1.0.4",
-  "apkUrl": "https://37kx6a3224i2htl1qtr.traesite.cn/Tick-1.0.4-r40.apk",
-  "notes": "悬浮球换为应用图标；面板居中缩小，面板外可正常触摸；导航改为顶部分类胶囊。",
-  "sha256": "395d21c1f30395c18c8e30caa194494836387fed3eff9f3748da0ab842a9e5aa"
+  "versionCode": 41,
+  "versionName": "1.0.5",
+  "apkUrl": "https://37kx6a3224i2htl1qtr.traesite.cn/Tick-1.0.5-r41.apk",
+  "notes": "悬浮面板改为左侧栏结构，分类导航移到侧栏，底部显示版本号；面板加宽适配横屏；首页公告去掉卡片仅保留文字；统一白与深灰配色，清除残留彩色。",
+  "sha256": "3eb98b743e20e95cd504bad5154816cdc76727540a59509a01c48ffbe91c996e"
 }
