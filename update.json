@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "1.0.9",
-  "apkUrl": "https://37kx6a3224i2htl1qtr.traesite.cn/Tick-1.0.9-r45.apk",
-  "notes": "改为深蓝半透明主题（背景 #0A1E3C 约70%不透明，文字偏蓝白）；功能项由开关改为对勾图标，亮起为开启、灰暗为关闭；移除开关控件代码。",
-  "sha256": "1a7fc11b4496c001590eaf27529066072001e637e3b1810b1b278bc9d04fbdc3"
+  "versionCode": 46,
+  "versionName": "1.1.0",
+  "apkUrl": "https://37kx6a3224i2htl1qtr.traesite.cn/Tick-1.1.0-r46.apk",
+  "notes": "修复对勾不显示：改用代码手绘对勾，不再依赖系统字体的 ✓ 字形；未选中状态调亮便于看清；去掉重复的底部版本号；分类行高 32dp、可滚区域加高，小屏横屏不再切行。已用本地截图自测核对。",
+  "sha256": "6b7e6c9e63c3296328344605d0752e178af1cde5a5e1ce237e1ed6e3e388aaf8"
 }
