@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "1.0.5",
-  "apkUrl": "https://37kx6a3224i2htl1qtr.traesite.cn/Tick-1.0.5-r41.apk",
-  "notes": "悬浮面板改为左侧栏结构，分类导航移到侧栏，底部显示版本号；面板加宽适配横屏；首页公告去掉卡片仅保留文字；统一白与深灰配色，清除残留彩色。",
-  "sha256": "3eb98b743e20e95cd504bad5154816cdc76727540a59509a01c48ffbe91c996e"
+  "versionCode": 42,
+  "versionName": "1.0.6",
+  "apkUrl": "https://37kx6a3224i2htl1qtr.traesite.cn/Tick-1.0.6-r42.apk",
+  "notes": "悬浮面板按横屏紧凑样式重排：侧栏收窄至 120dp、行高 30dp、开关 29x16、卡片圆角 12；深色主题改为默认，配色换成深蓝灰底配青色强调；内容改为单列分区列表。",
+  "sha256": "1973a13e552b3882aecb4aed438a06650e4960b6c18dee8de3d0b2765736f4eb"
 }
