@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "1.0.2",
-  "apkUrl": "https://fastly.jsdelivr.net/gh/20111226zzh/signtick-update@main/Signtick-1.0.2-r38.apk",
-  "notes": "移除公告正文内容。",
-  "sha256": "d76cf747f394661c3a34de3f80ee9e0b09c58495467ba26bd06d27f80d2f3723"
+  "versionCode": 39,
+  "versionName": "1.0.3",
+  "apkUrl": "https://37kx6a3224i2htl1qtr.traesite.cn/Tick-1.0.3-r39.apk",
+  "notes": "应用更名为 Tick，更新应用图标与功能图标，首页新增公告。",
+  "sha256": "492d5da332b49ef7a8e3e63428a96e8ee9017b2e963c7276a897f5dc84e523cb"
 }
