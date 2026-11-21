@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "1.1.1",
-  "apkUrl": "https://37kx6a3224i2htl1qtr.traesite.cn/Tick-1.1.1-r47.apk",
-  "notes": "拖拽修正：去掉面板四周阴影留白，顶栏加高到 32dp，手指在顶栏内侧按下即跟随移动，无需拖出面板；对勾改为深色方框，勾选后才显示对勾；去掉各分类下的分辨率与版本号。",
-  "sha256": "c4466056dcbcfd566057b2f655d509f08270c7b79efda4edaca2a358c117fe80"
+  "versionCode": 48,
+  "versionName": "1.1.2",
+  "apkUrl": "https://37kx6a3224i2htl1qtr.traesite.cn/Tick-1.1.2-r48.apk",
+  "notes": "主页公告移至标题上方；检查更新图标改为圆润样式；首页与注入页标题及卡片对齐；移除旧悬浮窗面板，保留悬浮入口。",
+  "sha256": "c49695c2dc2f2712d4e2fd14617a1336dab047b8b09e27cdbf419104f9fd7ea7"
 }
